@@ -4,6 +4,9 @@
     font-size: 16px;
     text-decoration: none;
 }
+body{
+    background-color: rgb(163, 159, 159) ;
+}
 /* creating navbar */
 #navbar{
     position: fixed;
@@ -47,7 +50,7 @@ header{
 /* editing code */
 code{
     display: block;
-    background-color: rgb(179, 172, 172);
+    background-color: rgb(209, 204, 204);
     height: 50px;
     text-align: center;
     padding-top: 10px;
